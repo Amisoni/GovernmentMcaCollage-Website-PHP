@@ -1,0 +1,1 @@
+<?php $mysqli = NEW MYSQLI ('localhost','root','','gmca');?>
